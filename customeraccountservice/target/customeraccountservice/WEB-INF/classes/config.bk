@@ -1,0 +1,13 @@
+customerAccountServiceEndPoint = http://localhost:8080/customeraccountservice
+redisDB = redis://x:IPRBKTMZKVSKPUJU@sl-us-dal-9-portal.3.dblayer.com:15532
+photoDir = /Users/quyentran/tomcat9/webapps/customeraccountservice/photos
+elasticSearchEndPoint = https://qvtran:abc123@sl-us-dal-9-portal3.dblayer.com:15642/
+adminUserName = admin
+adminPassword = admin
+
+customerAccountServiceEndPoint = http://169.53.22.85:8080/customeraccountservice
+redisDB = redis://x:IPRBKTMZKVSKPUJU@sl-us-dal-9-portal.3.dblayer.com:15532
+photoDir = /root/tomcat9/webapps/customeraccountservice/photos
+elasticSearchEndPoint = https://qvtran:abc123@sl-us-dal-9-portal3.dblayer.com:15642/
+adminUserName = admin
+adminPassword = admin
